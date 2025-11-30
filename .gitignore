@@ -1,0 +1,15 @@
+# Ignore virtual environment
+cancer_research/
+
+# Ignore large data files
+data/*.csv
+data/*.tsv
+
+# Outputs (optional)
+outputs/*.csv
+outputs/*.png
+outputs/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
